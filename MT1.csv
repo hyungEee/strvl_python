@@ -1,0 +1,4 @@
+id,place_name,category_name,category_group_code,category_group_name,phone,address_name,road_address_name,x,y,place_url,distance,wheelchair,animal,keyword,rate_count,rate
+21309134,하나로마트 서대문점,"가정,생활 > 슈퍼마켓 > 대형슈퍼 > 하나로마트",MT1,대형마트,02-2080-6993,서울 중구 충정로1가 85,서울 중구 통일로 120,126.967514803608,37.5656810025758,http://place.map.kakao.com/21309134,,unknown,unknown,,6,4.2
+16932240,홈플러스익스프레스 광화문점,"가정,생활 > 슈퍼마켓 > 대형슈퍼 > 홈플러스익스프레스",MT1,대형마트,02-737-9994,서울 종로구 신문로1가 24,서울 종로구 새문안로 91,126.974834204287,37.5705950181098,http://place.map.kakao.com/16932240,,unknown,unknown,,4,4.3
+12264702,서서울농협하나로마트 사직점,"가정,생활 > 슈퍼마켓 > 대형슈퍼 > 하나로마트",MT1,대형마트,02-725-4021,서울 종로구 사직동 9,서울 종로구 사직로8길 4,126.96999114989003,37.57470692847596,http://place.map.kakao.com/12264702,,unknown,unknown,,3,4.0
